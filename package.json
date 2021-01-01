@@ -1,0 +1,19 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "full stack projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YanivYscr/Web.git"
+  },
+  "author": "yaniv yscr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YanivYscr/Web/issues"
+  },
+  "homepage": "https://github.com/YanivYscr/Web#readme"
+}
